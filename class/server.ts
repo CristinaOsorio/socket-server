@@ -54,7 +54,7 @@ export default class Server {
     }
 
     start( callback: Function ) {
-        this.httpServer.listen(this.port, callback);
+        this.httpServer.listen(this.port, callback());
     }
 
 }
