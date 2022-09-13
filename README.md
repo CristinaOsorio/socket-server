@@ -18,6 +18,6 @@ nodemon dist/
 node dist/
 ````
 
-Ejecutar proyecto Front-End
+## Ejecutar proyecto Front-End
 
 Descargar el proyecto [socket-server-angular](https://github.com/CristinaOsorio/socket-server-angular)
